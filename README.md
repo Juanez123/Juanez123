@@ -1,16 +1,23 @@
-## Hi there 👋
+````markdown name=README.md
+# 👋 Hi, I'm Juanez — Software Engineering Student
 
-<!--
-**Juanez123/Juanez123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated software engineering student with a focus on building reliable, maintainable applications. I enjoy turning ideas into practical solutions through clean code, thoughtful design, and automation.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
+- Python — scripting, automation, and backend development  
+- SQL — relational databases, queries, and data modeling  
+- APIs — designing and consuming RESTful services  
+- JSON — data interchange and configuration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Interests
+I have a strong interest in chatbot development and automation — creating efficient conversational interfaces and automating repetitive workflows to improve productivity and user experience.
+
+## 🎓 Certification
+- Data Analysis Bootcamp — Certified (practical experience in data wrangling, querying, and reporting)
+
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
+Thank you for visiting my profile — I’m always open to collaboration, project ideas, and professional connections.
+````
