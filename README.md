@@ -15,7 +15,6 @@ Tengo un fuerte interés en el desarrollo de chatbots y la automatización — c
 - Bootcamp de Análisis de Datos — Certificado (experiencia práctica en limpieza de datos, consultas y reportes)
 
 ## 📫 Contacto
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-- Email: [your.email@example.com](mailto:your.email@example.com)
-
+- LinkedIn: linkedin.com/in/juan-esteban-estarda-6841983a9 
+- Email: Estradajuan0114@gmail.com
 Gracias por visitar mi perfil — siempre estoy abierto a colaborar, recibir ideas de proyectos y crear conexiones profesionales.
