@@ -1,23 +1,21 @@
-````markdown name=README.md
-# 👋 Hi, I'm Juanez — Software Engineering Student
+# 👋 Hola, soy Juanez — Estudiante de Ingeniería de Software
 
-I'm a dedicated software engineering student with a focus on building reliable, maintainable applications. I enjoy turning ideas into practical solutions through clean code, thoughtful design, and automation.
+Soy un estudiante de ingeniería de software dedicado, enfocado en construir aplicaciones confiables y mantenibles. Disfruto convertir ideas en soluciones prácticas mediante código limpio, diseño bien pensado y automatización.
 
-## 🛠️ Technologies
-- Python — scripting, automation, and backend development  
-- SQL — relational databases, queries, and data modeling  
-- APIs — designing and consuming RESTful services  
-- JSON — data interchange and configuration
+## 🛠️ Tecnologías
+- Python — scripting, automatización y desarrollo backend  
+- SQL — bases de datos relacionales, consultas y modelado de datos  
+- APIs — diseño y consumo de servicios REST  
+- JSON — intercambio de datos y configuración
 
-## 🤖 Interests
-I have a strong interest in chatbot development and automation — creating efficient conversational interfaces and automating repetitive workflows to improve productivity and user experience.
+## 🤖 Intereses
+Tengo un fuerte interés en el desarrollo de chatbots y la automatización — creando interfaces conversacionales eficientes y automatizando flujos de trabajo repetitivos para mejorar la productividad y la experiencia del usuario.
 
-## 🎓 Certification
-- Data Analysis Bootcamp — Certified (practical experience in data wrangling, querying, and reporting)
+## 🎓 Certificación
+- Bootcamp de Análisis de Datos — Certificado (experiencia práctica en limpieza de datos, consultas y reportes)
 
-## 📫 Contact
+## 📫 Contacto
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
 - Email: [your.email@example.com](mailto:your.email@example.com)
 
-Thank you for visiting my profile — I’m always open to collaboration, project ideas, and professional connections.
-````
+Gracias por visitar mi perfil — siempre estoy abierto a colaborar, recibir ideas de proyectos y crear conexiones profesionales.
